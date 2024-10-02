@@ -1,5 +1,6 @@
 # Hi there 👋, I am Chaitanya Phate
-I am a data scientist, passionate about solving problems using data.
+I am a data scientist, passionate about solving problems using data. I enjoy working with machine learning, data analysis, and big data tools to extract insights and build predictive models.
+
 ## 🔧 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-00599C?logo=postgresql&logoColor=white&style=flat)
